@@ -1,0 +1,19 @@
+C:\Users\ALEXIS MORALES\source\repos\Hanoi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ALEXIS MORALES\source\repos\Hanoi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ALEXIS MORALES\source\repos\Hanoi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ALEXIS MORALES\source\repos\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\ALEXIS MORALES\source\repos\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ALEXIS MORALES\source\repos\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ALEXIS MORALES\source\repos\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ALEXIS MORALES\source\repos\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ALEXIS MORALES\source\repos\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\Hanoi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\Hanoi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\Hanoi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\UNIVERSIDAD\UMG 5to semestre\1. Programacion 3\C#\Hanoi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
